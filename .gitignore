@@ -37,5 +37,14 @@
 *.out
 *.app
 
-# debug information files
+# Debug information files
 *.dwo
+
+# Code::Blocks specific files
+*.depend
+*.layout
+
+# Build directories
+bin/
+obj/
+build/
