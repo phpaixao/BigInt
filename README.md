@@ -70,7 +70,7 @@ A classe `BigInt` foi testada em um programa principal fornecido pelo professor:
 
 2. Compile o projeto:
    ```bash
-   g++ -std=c++11 -Wall main.cpp BigInt.cpp -o bigint
+   g++ -std=c++11 -Wall mainteste.cpp BigInt.cpp -o bigint
    ```
 
 3. Execute a mini-calculadora:
